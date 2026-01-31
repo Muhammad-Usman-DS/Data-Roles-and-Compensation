@@ -22,7 +22,7 @@ The project emphasizes **business data science workflows**, including data clean
 
 ### Source file:
 
-![Raw-Data](Data/DataScience_salaries_2025.xlsx)
+Data can be viewed at --> Data/DataScience_salaries_2025.xlsx
 
 This Data was extracted from : https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024
 
