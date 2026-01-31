@@ -117,6 +117,10 @@ Evaluation metrics included accuracy, precision, recall, F1 score, and confusion
 - Remote roles remain competitive, especially at mid-to-senior levels  
 - Tree-based models outperform linear models for salary tier classification
 
-For more information about Key findings, view the:  .pdf
+For more information about Key findings, view the 2 reports:  
+
+EDA-Summary Of Findings.pdf
+Salary Prediction and Insights Report.pdf
+
 
 
