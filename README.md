@@ -120,6 +120,7 @@ Evaluation metrics included accuracy, precision, recall, F1 score, and confusion
 For more information about Key findings, view the 2 reports:  
 
 EDA-Summary Of Findings.pdf
+
 Salary Prediction and Insights Report.pdf
 
 
